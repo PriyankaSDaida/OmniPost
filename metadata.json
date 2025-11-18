@@ -1,0 +1,5 @@
+{
+  "name": "OmniPost - AI Social Content",
+  "description": "Generate tailored social media posts and images for LinkedIn, Twitter, and Instagram simultaneously using Gemini and Imagen.",
+  "requestFramePermissions": []
+}
